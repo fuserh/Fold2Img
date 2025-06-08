@@ -1,0 +1,5 @@
+Pillow==10.0.0
+pycryptodome==3.19.0
+reedsolo==1.7.0
+tqdm==4.66.1
+psutil==5.9.6
