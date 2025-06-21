@@ -126,7 +126,7 @@ MAGIC_NUMBER (4B) | 块索引 (4B) | 数据长度 (4B) | 加密数据 (变长)
 
 ## 许可证
 
-本项目采用 GPLv3 许可证 - 详见 [LICENSE](LICENSE) 文件。
+本项目采用 AGPLv3 许可证 - 详见 [LICENSE](LICENSE) 文件。
 
 ---
 
